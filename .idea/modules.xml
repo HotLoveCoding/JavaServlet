@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JspMvc/JspMvc.iml" filepath="$PROJECT_DIR$/JspMvc/JspMvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sessionCooike/sessionCooike.iml" filepath="$PROJECT_DIR$/sessionCooike/sessionCooike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_cookie/session_cookie.iml" filepath="$PROJECT_DIR$/session_cookie/session_cookie.iml" />
+    </modules>
+  </component>
+</project>
